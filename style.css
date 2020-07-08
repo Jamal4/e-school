@@ -1,0 +1,60 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+header {
+  background-color: #f0fff0;
+  height: 576px;
+
+}
+.navbar{
+  padding-bottom: 30px;
+}
+.navigation-bar img{
+  width: 198px;
+  height: 59px;
+  padding-bottom: 5px;
+  
+}
+.container{
+margin-top: 50px;
+}
+header img{
+  width: 554px;
+  height: 346px;
+}
+
+.green-button{
+  background-color: #21B573;
+  border-radius: 33px;
+  border: none; 
+}
+.btn-type1{
+  width: 104px;
+  height: 43px;
+}
+.btn-type2{
+  width: 153px;
+  height: 43px;
+  margin: 10px 0px;
+}
+#header-pTag {
+  color: #fd511a;
+
+#header-h1-tag{
+  font-size: 3rem;
+} 
+#head-span{
+  color: #21B573;
+}
+
+#signin-bg-color {
+  width: 104px;
+  height: 43px;
+  background-color: #21b573;
+  border-radius: 33px;
+}
+
+
+
+
+
